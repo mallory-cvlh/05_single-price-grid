@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/mallory-cvlh/05_single-price-grid/blob/main/img/Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/mallory-cvlh/05_single-price-grid)
+- Live Site URL: [Live](https://mallory-cvlh.github.io/05_single-price-grid/)
 
 ## My process
 
